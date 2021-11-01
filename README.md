@@ -8,16 +8,17 @@
     The minimum project requirements for this are listed as follows:
   </p>
 
-  - [ ] Setup the canvas
-  - [ ] Add mesh component
-  - [ ] Add light
+  - [x] Setup the canvas
+  - [x] Add mesh component
+  - [x] Add light
+  - [x] Basic animations
 
   <p>Additional ideas to implement include:</p>
 
-  - [ ] Objects, properties, and constructor arguments
-  - [ ] Hooks
-  - [ ] Events
+  - [x] Objects, properties, and constructor arguments
+  - [x] Hooks (useFrame)
   - [ ] React spring integratation
+  - [ ] Events
 
 ### Specification
 
