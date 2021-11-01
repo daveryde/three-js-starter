@@ -52,5 +52,5 @@ npm start
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-[three.js]: (https://threejs.org/)
-[react-three-fiber]: (https://docs.pmnd.rs/react-three-fiber/getting-started/introduction)
+[three.js]: https://threejs.org/
+[react-three-fiber]: https://docs.pmnd.rs/react-three-fiber/getting-started/introduction
