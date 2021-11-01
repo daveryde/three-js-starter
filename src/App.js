@@ -4,7 +4,7 @@ import AnimatedBox from './components/AnimatedBox';
 
 function App() {
   return (
-    <div id="canvas-container">
+    <div>
       <Canvas>
         <AnimatedBox />
         <ambientLight intensity={0.1} />
