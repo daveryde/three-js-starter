@@ -5,7 +5,7 @@
   </p>
 
   <p>
-    The minimum AWS cloud infrastructure requirements for this are listed as follows:
+    The minimum project requirements for this are listed as follows:
   </p>
 
   - [ ] Setup the canvas
